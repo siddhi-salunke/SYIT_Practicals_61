@@ -1,0 +1,2 @@
+Enter a number: 10
+10 is Even.
